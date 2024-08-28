@@ -46,7 +46,7 @@ Quickly Align and distribute objects.
 
 A simple and customizable checklist for Blender.
 
-![checklistpic](https://github.com/user-attachments/assets/a98993d0-9136-4046-9dbd-e3fda7ccd342)
+![checklistpic](https://github.com/user-attachments/assets/eeb9b5db-aec1-45ec-bff2-36ede6714c1e)
 
 #### Features:
 - Add and remove items
