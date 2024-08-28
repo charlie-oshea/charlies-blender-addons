@@ -13,6 +13,8 @@ A collection of small Blender add-ons that you might find useful :)
 
 Quickly generate Level of Detail (LOD) meshes.
 
+![lodpic](https://github.com/user-attachments/assets/fbc85f58-e6e9-433c-9ff1-6d46c76c12e0)
+
 #### Features:
 - Generate multiple LOD levels with one click
 - Customizable reduction factor
@@ -28,6 +30,8 @@ Quickly generate Level of Detail (LOD) meshes.
 
 Quickly Align and distribute objects.
 
+![alignpic](https://github.com/user-attachments/assets/a682e06d-234d-4624-8196-ee91afcb1fb8)
+
 #### Features:
 - Align or Distribute selected objects along a specified axis with one click
 
@@ -41,6 +45,8 @@ Quickly Align and distribute objects.
 ### 3. [Simple Checklist](https://github.com/charlie-oshea/charlies-blender-addons/blob/main/simple_checklist.zip)
 
 A simple and customizable checklist for Blender.
+
+![checklistpic](https://github.com/user-attachments/assets/a98993d0-9136-4046-9dbd-e3fda7ccd342)
 
 #### Features:
 - Add and remove items
@@ -58,4 +64,3 @@ A simple and customizable checklist for Blender.
 ## License ⚖️
 
 [MIT License](https://github.com/charlie-oshea/charlies-blender-addons/blob/main/LICENSE)
-
