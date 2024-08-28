@@ -1,6 +1,6 @@
 # charlies blender addons 🧩
 
-A collection of small Blender add-ons that you might find useful :)
+A collection of small blender add-ons that you might find useful :)
 
 ## Downloads 💾
 #### 1. [QuickLOD](https://github.com/charlie-oshea/charlies-blender-addons/blob/main/QuickLOD.zip)
